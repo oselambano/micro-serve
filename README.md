@@ -32,3 +32,4 @@ We will create the cluster on AWS EKS by using Rancher’s menus. We will use AW
 we will compile, test (with junit in pom.xml), build, and run our code on the container via Docker, Docker Compose, and Maven in the development server we will install by using Terraform. We will create and clone Source Code Management Repository(GitHub) to Development Server, and we will work in different branches (dev, feature, bugfix, hotfix, etc.) on GitHub for the DevOps cycle. Finally, We will observe what happens in the containers, after the “docker-compose” command runs.
 
 We will do them all step by step.
+# micro-serve
